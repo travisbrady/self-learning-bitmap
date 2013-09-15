@@ -36,8 +36,6 @@ of the Self-Learning Bitmap available online.  But needless to say it has not be
 
 The java directory has a README of its own.
 
-This photo is not a Self-Learning Bitmap
-![Sew](http://wiki.xkcd.com/wirc/images/4/4f/Sewing_Machine.jpg)
 
 
 
