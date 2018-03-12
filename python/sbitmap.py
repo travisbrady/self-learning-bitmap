@@ -5,7 +5,6 @@
 """
 from math import log
 from bitarray import bitarray
-#from murmur3 import hash128_64
 from cityhash import CityHash64
 
 class SBitmap(object):
